@@ -46,6 +46,7 @@ The program automatically generates a Gnuplot script and calls Gnuplot to create
 
 ## Example Output
 The output data is plotted showing the process variable (PV) and PID output over iterations. The generated plot looks like this:
+![pid_output](https://github.com/MenakaGodakanda/PIDControllerProject/assets/156875412/d498c1a8-1847-4852-bbd0-9b07382adef3)
 
 ## Clean Up
 To clean up the generated files, run:
