@@ -1,6 +1,7 @@
 # PID Controller Project
 
-This project demonstrates a simple PID (Proportional-Integral-Derivative) controller implemented in C++.
+This project demonstrates a simple PID (Proportional-Integral-Derivative) controller implemented in C++.<br>
+<a href="https://github.com/MenakaGodakanda/PIDControllerProject/blob/main/Project_Description.md">Project Description</a>
 
 ## Directory Structure
 
@@ -12,6 +13,7 @@ This project demonstrates a simple PID (Proportional-Integral-Derivative) contro
   - `main.cpp`: Example file that demonstrates how to use the PID controller.
 - `output_data.csv`: Generated after running the example, contains the PID controller output data.
 - `plot_script.gp`: Generated Gnuplot script for plotting the PID controller output.
+- `pid_output.png`: Generated plot showing the PID controller output.
 - `Makefile`: Build instructions for the project.
 - `README.md`: This readme file.
 - `.gitignore`: Specifies files and directories to be ignored by git.
@@ -66,5 +68,5 @@ This project is licensed under the MIT License.
 - Create a new Pull Request.
 
 ## Acknowledgments
-Inspired by various PID controller implementations and tutorials.
-<a href="http://www.gnuplot.info/">Gnuplot</a> for plotting the data.
+- Inspired by various PID controller implementations and tutorials.
+- <a href="http://www.gnuplot.info/">Gnuplot</a> for plotting the data.
