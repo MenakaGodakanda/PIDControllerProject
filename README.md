@@ -41,14 +41,14 @@ Execute the example program:
 ```sh
 ./examples/main
 ```
-This will generate output_data.csv containing the PID controller output data and pid_output.png which is a plot of the data. <br>
+This will generate `output_data.csv` containing the PID controller output data and `pid_output.png` which is a plot of the data. <br><br>
 ![Screenshot 2024-05-30 194137](https://github.com/MenakaGodakanda/PIDControllerProject/assets/156875412/b2e25dc5-1bf9-4fa1-a646-01ec181f6c02)
 
 ## Plot the Output
-The program automatically generates a Gnuplot script and calls Gnuplot to create a plot of the PID controller output. The resulting plot is saved as pid_output.png.
+The program automatically generates a Gnuplot script and calls Gnuplot to create a plot of the PID controller output. The resulting plot is saved as `pid_output.png`.
 
 ## Example Output
-The output data is plotted showing the process variable (PV) and PID output over iterations. The generated plot looks like this:
+The output data is plotted showing the process variable (PV) and PID output over iterations. The generated plot looks like this:<br><br>
 ![pid_output](https://github.com/MenakaGodakanda/PIDControllerProject/assets/156875412/d498c1a8-1847-4852-bbd0-9b07382adef3)
 
 ## Clean Up
