@@ -39,7 +39,8 @@ Execute the example program:
 ```sh
 ./examples/main
 ```
-This will generate output_data.csv containing the PID controller output data and pid_output.png which is a plot of the data.
+This will generate output_data.csv containing the PID controller output data and pid_output.png which is a plot of the data. <br>
+![Screenshot 2024-05-30 194137](https://github.com/MenakaGodakanda/PIDControllerProject/assets/156875412/b2e25dc5-1bf9-4fa1-a646-01ec181f6c02)
 
 ## Plot the Output
 The program automatically generates a Gnuplot script and calls Gnuplot to create a plot of the PID controller output. The resulting plot is saved as pid_output.png.
