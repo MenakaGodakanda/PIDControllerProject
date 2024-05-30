@@ -1,4 +1,4 @@
-# Traffic Light Controller - Version 1
+# PID Controller - Version 1
 This project demonstrates a simple PID (Proportional-Integral-Derivative) controller implemented in C++.
 
 ## Features of the project:
